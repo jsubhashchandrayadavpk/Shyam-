@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SHYAM</string>
+    <string name="app_subtitle_hindi">श्याम</string>
+    <string name="home_card_jap_title">श्री राधा नाम जप</string>
+    <string name="home_card_jap_desc">108 मनका माला काउंटर, कस्टम नाम और ध्वनि-कंपन</string>
+    <string name="home_card_reminder_title">श्री राधा नाम जप रिमाइंडर</string>
+    <string name="home_card_reminder_desc">नियमित नाम स्मरण अलार्म, वॉइस और समय सीमा</string>
+    <string name="home_card_download_title">SHYAM APK डाउनलोड करें</string>
+    <string name="home_card_download_desc">नवीनतम संस्करण जांचें, डाउनलोड और इंस्टॉल करें</string>
+    <string name="default_reminder_message">राधे राधे 🙏 अब श्री राधा नाम का स्मरण करें।</string>
+    <string name="update_available_title">नया अपडेट उपलब्ध है</string>
+    <string name="download_update_cta">अपडेट डाउनलोड करें</string>
+    <string name="up_to_date_message">आपका SHYAM ऐप नवीनतम संस्करण पर है।</string>
+</resources>

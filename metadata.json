@@ -1,0 +1,6 @@
+{
+  "name": "SHYAM",
+  "description": "श्री राधा नाम जप काउंटर, रिमाइंडर और ऐप अपडेट — SHYAM (श्याम) भक्ति ऐप",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
